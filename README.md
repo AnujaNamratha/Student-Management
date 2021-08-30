@@ -6,15 +6,3 @@ Student Management System written in C programming language . University Visvesv
 </p>
 <h2>Some screnshot.</h2>
 
-![Front Page](http://i.imgur.com/3L7WEOx.jpg)
-<br>
-This is the front page of the program. 
-<br>
-![Main Page](http://i.imgur.com/mraVXvr.jpg)
-<br>
-It is the main page. Show all the option you can do with it. 
-<br>
-![Add Student Page](http://i.imgur.com/othYdgj.jpg)
-<br>
-Add Student page. You can store name, roll, department, sgpa and the cgpa will be calculated automatically. 
-<br>
